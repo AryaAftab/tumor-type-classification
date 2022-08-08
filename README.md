@@ -1,1 +1,2 @@
-# tumor-type-classification
+# Tumor type classification
+In this project, we classified the type of cancerous mass. First, we extracted the features of **Grey-Level Co-Occurrence Matrix (GLCM)**, **Grey Level Difference Matrix (GLDM)**, **Gray-Level Run-Length Matrix (GLRLM)**, and **Nakagami Distribution Parameters** from the ROI section of the images, and then we classified the desired features using the models of **Multilayer Perceptron (MLP)**, **K-Nearest Neighbor (KNN)**, and  **Support Vector Machine (SVM)**.
